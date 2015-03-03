@@ -1,0 +1,25 @@
+/* Restaurant Flip CSS */
+
+body {
+	
+	background-color: #FFF5EE;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	
+}
+
+
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	margin: 0px 0px 0px 0px;
+	background-image: url("pizza1.png");
+
+}
+
+.jumbotron col-md-12 {
+
+	background-image: url("pizza1.png")
+}
