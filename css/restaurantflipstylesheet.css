@@ -9,17 +9,30 @@ body {
 	
 }
 
-
-
 h1 {
 	text-align: center;
 	text-decoration: underline;
 	margin: 0px 0px 0px 0px;
-	background-image: url("pizza1.png");
 
 }
 
-.jumbotron h1 {
+.navbar-default {
+  background-color: #FF0000;
+  border-color: #FF0000;
+}
 
-	background-image: url("pizza1.png")
+.navbar .nav > li > a {
+    color:  white;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+	color: white;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+  
+ul {
+	list-style-type:none;
+	text-align: center;
 }
